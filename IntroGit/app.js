@@ -1,2 +1,2 @@
-let tituulo=document.getElementById('Titulo');
-titulo.innerHtml = "CAMBIO EN EL TITUTULO";
+let titulo=document.getElementById('Titulo');
+titulo.innerHtml = "Carlos Zamora esta aprendiendo Git con comandos";
